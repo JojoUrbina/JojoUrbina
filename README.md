@@ -1,4 +1,4 @@
-<h1 align="center">Hi all, I'm Hanzla</h1>
+<h1 align="center">Hi all, I'm Jorman</h1>
 
 <h3 align="center">Full Stack Django, React.js Developer & Blockchain Developer from Lahore, Pakistan.</h3>
 
