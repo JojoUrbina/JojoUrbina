@@ -7,7 +7,7 @@
 
 - 💻 I am currently learning to be Front-End Developer React-Native
 - 📄 Know about my experiences [https://www.linkedin.com/in/jorman-urbina-orfila/](https://www.linkedin.com/in/jorman-urbina-orfila/)
-- 📝 Download my [CV](https://drive.google.com/uc?export=download&id=1RG5Zk-Mb_3pekGTgFP0CSoeW77klYxt2)
+- 📝 Download my [CV]([https://drive.google.com/uc?export=download&id=1RG5Zk-Mb_3pekGTgFP0CSoeW77klYxt2](https://drive.google.com/uc?export=download&id=1QuCF3-sjbuDeWSG1uFUYSV1s95l5tH5x))
 
 <h2 align="center"> Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
 
